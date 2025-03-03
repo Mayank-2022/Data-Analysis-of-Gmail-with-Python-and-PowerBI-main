@@ -2,6 +2,8 @@ Here's a **step-by-step guide** to implement the **Gmail Data Analysis with Pyth
 
 ---
 
+Clone the repo : https://github.com/Mayank-2022/Data-Analysis-of-Gmail-with-Python-and-PowerBI-main
+
 ## **Step 1: Enable IMAP Access & Generate App Password**
 Before extracting emails from Gmail, you need to enable **IMAP access** and generate an **app password** for authentication.  
 
